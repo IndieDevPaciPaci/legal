@@ -11,6 +11,7 @@ Hostováno na GitHub Pages, statické HTML, žádný build.
 index.html            rozcestník (odkazy na všechny hry)
 assets/style.css      sdílený vzhled — jedna změna = změna všude
 terms/                Podmínky užití, společné pro všechny hry
+ishizumi/             Zásady ochrany soukromí — Ishizumi
 nagomi/               Zásady ochrany soukromí — Nagomi
 waterline/            Zásady ochrany soukromí — Waterline
 frogstone/            Zásady ochrany soukromí — Frogstone
@@ -23,6 +24,7 @@ Po zapnutí GitHub Pages (Settings → Pages → Deploy from a branch → `main`
 
 | Hra | URL do pole *Privacy policy* |
 |---|---|
+| Ishizumi | `https://<uživatel>.github.io/legal/ishizumi/` |
 | Nagomi | `https://<uživatel>.github.io/legal/nagomi/` |
 | Waterline | `https://<uživatel>.github.io/legal/waterline/` |
 | Frogstone | `https://<uživatel>.github.io/legal/frogstone/` |
