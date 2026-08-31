@@ -13,7 +13,6 @@ assets/style.css      sdílený vzhled — jedna změna = změna všude
 terms/                Podmínky užití, společné pro všechny hry
 ishizumi/             Zásady ochrany soukromí — Ishizumi
 nagomi/               Zásady ochrany soukromí — Nagomi
-frogstone/            Zásady ochrany soukromí — Frogstone
 ```
 
 ## URL do Google Play Console
@@ -24,7 +23,6 @@ Po zapnutí GitHub Pages (Settings → Pages → Deploy from a branch → `main`
 |---|---|
 | Ishizumi | `https://<uživatel>.github.io/legal/ishizumi/` |
 | Nagomi | `https://<uživatel>.github.io/legal/nagomi/` |
-| Frogstone | `https://<uživatel>.github.io/legal/frogstone/` |
 
 Podmínky užití: `https://<uživatel>.github.io/legal/terms/` — Play Console je
 nevyžaduje, patří do App content → volitelných polí nebo do popisu.
