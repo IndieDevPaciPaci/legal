@@ -13,9 +13,7 @@ assets/style.css      sdílený vzhled — jedna změna = změna všude
 terms/                Podmínky užití, společné pro všechny hry
 ishizumi/             Zásady ochrany soukromí — Ishizumi
 nagomi/               Zásady ochrany soukromí — Nagomi
-waterline/            Zásady ochrany soukromí — Waterline
 frogstone/            Zásady ochrany soukromí — Frogstone
-tetherloom/           Zásady ochrany soukromí — Tetherloom
 ```
 
 ## URL do Google Play Console
@@ -26,9 +24,7 @@ Po zapnutí GitHub Pages (Settings → Pages → Deploy from a branch → `main`
 |---|---|
 | Ishizumi | `https://<uživatel>.github.io/legal/ishizumi/` |
 | Nagomi | `https://<uživatel>.github.io/legal/nagomi/` |
-| Waterline | `https://<uživatel>.github.io/legal/waterline/` |
 | Frogstone | `https://<uživatel>.github.io/legal/frogstone/` |
-| Tetherloom | `https://<uživatel>.github.io/legal/tetherloom/` |
 
 Podmínky užití: `https://<uživatel>.github.io/legal/terms/` — Play Console je
 nevyžaduje, patří do App content → volitelných polí nebo do popisu.
